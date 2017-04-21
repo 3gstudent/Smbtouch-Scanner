@@ -9,6 +9,7 @@ Automatically scan the inner network.
 Use Smbtouch.exe to detect whether the target is vulnerable.
 
 Protocol: SMB
+
 Scan port:445
 
 **Note:**
