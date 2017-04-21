@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 #
 # Smbtouch Scanner
 # By: 3gstudent
