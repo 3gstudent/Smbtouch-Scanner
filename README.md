@@ -26,3 +26,6 @@ or
 
 https://github.com/fuzzbunch/fuzzbunch/blob/master/touches/Smbtouch-1.1.1.exe
 
+---
+
+Maybe need to use multithread to improve efficiency.
