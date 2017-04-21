@@ -22,5 +22,7 @@ You can get Smbtouch.exe from this:
 
 https://github.com/x0rz/EQGRP_Lost_in_Translation/blob/master/windows/touches/Smbtouch-1.1.1.exe
 
+or
 
+https://github.com/fuzzbunch/fuzzbunch/blob/master/touches/Smbtouch-1.1.1.exe
 
