@@ -1,9 +1,11 @@
 # Smbtouch-Scanner
 
+
 Author: 3gstudent
 
 License: BSD 3-Clause
 
+---
 Automatically scan the inner network.
 
 Use Smbtouch.exe to detect whether the target is vulnerable.
