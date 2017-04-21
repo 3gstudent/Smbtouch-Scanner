@@ -8,7 +8,7 @@ Protocol: SMB
 
 Scan port:445
 
-Note:
+*Note:*
 
    You can also use protocl NBT and port 139,just change the Smbtouch-1.1.1.xml
 
