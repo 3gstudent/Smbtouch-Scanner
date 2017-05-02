@@ -10,7 +10,7 @@ Automatically scan the inner network.
 
 Use Smbtouch.exe to detect whether the target is vulnerable.
 
-List of vulnerabilities：
+**List of vulnerabilities：**
 
 - ETERNALBLUE
 - ETERNALCHAMPION
